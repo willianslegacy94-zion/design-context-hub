@@ -1,0 +1,22 @@
+[
+  { "q": "What is the hex code of the primary brand color?", "expect": "color-palette" },
+  { "q": "Can I use pure black for body text?", "expect": "color-palette" },
+  { "q": "Which purple should a primary button use?", "expect": "color-palette", "also": ["button"] },
+  { "q": "What corner radius do buttons have?", "expect": "button" },
+  { "q": "Button radius for dense loan simulation screens", "expect": "button" },
+  { "q": "Minimum touch target size", "expect": "button" },
+  { "q": "Why do people give up during sign up?", "expect": "onboarding-dropoff-study" },
+  { "q": "folks quit when taking a picture of their ID", "expect": "onboarding-dropoff-study" },
+  { "q": "How should we announce a credit limit increase?", "expect": "credit-limit-perception" },
+  { "q": "screen reader reads money amounts digit by digit", "expect": "accessibility-audit-2026" },
+  { "q": "How do I tag a usability test so other teams can find it?", "expect": "research-repository-guidelines" },
+  { "q": "What can the Mexico team change in a campaign?", "expect": "campaign-localization" },
+  { "q": "Can marketing photos show sports cars?", "expect": "campaign-localization" },
+  { "q": "How should an error message be written?", "expect": "error-messages" },
+  { "q": "What do we call the monthly bill in Colombia?", "expect": "pt-es-glossary" },
+  { "q": "horizontal margin on mobile screens", "expect": "spacing-tokens" },
+  { "q": "When should form fields be validated?", "expect": "form-patterns" },
+  { "q": "tone of voice when a customer's card is blocked", "expect": "voice-and-tone" },
+  { "q": "Which font for numbers in statements?", "expect": "typography" },
+  { "q": "how big should text be on top of the brand color", "expect": "color-palette" }
+]
